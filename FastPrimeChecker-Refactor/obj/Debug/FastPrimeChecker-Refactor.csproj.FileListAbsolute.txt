@@ -1,0 +1,5 @@
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\FastPrimeChecker-Refactor\bin\Debug\FastPrimeChecker-Refactor.exe.config
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\FastPrimeChecker-Refactor\bin\Debug\FastPrimeChecker-Refactor.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\FastPrimeChecker-Refactor\bin\Debug\FastPrimeChecker-Refactor.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\FastPrimeChecker-Refactor\obj\Debug\FastPrimeChecker-Refactor.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\FastPrimeChecker-Refactor\obj\Debug\FastPrimeChecker-Refactor.pdb

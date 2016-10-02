@@ -1,0 +1,5 @@
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

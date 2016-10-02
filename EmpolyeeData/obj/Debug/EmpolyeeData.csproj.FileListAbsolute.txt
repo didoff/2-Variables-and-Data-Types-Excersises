@@ -1,0 +1,6 @@
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\EmpolyeeData\bin\Debug\EmpolyeeData.exe.config
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\EmpolyeeData\bin\Debug\EmpolyeeData.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\EmpolyeeData\bin\Debug\EmpolyeeData.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\EmpolyeeData\obj\Debug\EmpolyeeData.csprojResolveAssemblyReference.cache
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\EmpolyeeData\obj\Debug\EmpolyeeData.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\EmpolyeeData\obj\Debug\EmpolyeeData.pdb

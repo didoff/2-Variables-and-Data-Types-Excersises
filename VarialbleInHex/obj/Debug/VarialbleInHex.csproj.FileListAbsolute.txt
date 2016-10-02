@@ -1,0 +1,12 @@
+c:\users\didoff\documents\visual studio 2015\Projects\Solution1\VarialbleInHex\bin\Debug\VarialbleInHex.exe.config
+c:\users\didoff\documents\visual studio 2015\Projects\Solution1\VarialbleInHex\obj\Debug\VarialbleInHex.csprojResolveAssemblyReference.cache
+c:\users\didoff\documents\visual studio 2015\Projects\Solution1\VarialbleInHex\bin\Debug\VarialbleInHex.exe
+c:\users\didoff\documents\visual studio 2015\Projects\Solution1\VarialbleInHex\bin\Debug\VarialbleInHex.pdb
+c:\users\didoff\documents\visual studio 2015\Projects\Solution1\VarialbleInHex\obj\Debug\VarialbleInHex.exe
+c:\users\didoff\documents\visual studio 2015\Projects\Solution1\VarialbleInHex\obj\Debug\VarialbleInHex.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\VarialbleInHex\bin\Debug\VarialbleInHex.exe.config
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\VarialbleInHex\obj\Debug\VarialbleInHex.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\VarialbleInHex\obj\Debug\VarialbleInHex.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\VarialbleInHex\bin\Debug\VarialbleInHex.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\VarialbleInHex\bin\Debug\VarialbleInHex.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\VarialbleInHex\obj\Debug\VarialbleInHex.csprojResolveAssemblyReference.cache

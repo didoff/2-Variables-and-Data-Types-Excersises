@@ -1,0 +1,6 @@
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\BooleanVariable\obj\Debug\BooleanVariable.csprojResolveAssemblyReference.cache
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Didoff\Documents\Visual Studio 2015\Projects\1-DataTypes-Variables-Excersise\BooleanVariable\obj\Debug\BooleanVariable.pdb
