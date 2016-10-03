@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastPrimeChecker-Refactor",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats!", "ComparingFloats!\ComparingFloats!.csproj", "{B708F4DC-0668-4769-9135-0D8AE9BA9BBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPartOfASCII", "PrintPartOfASCII\PrintPartOfASCII.csproj", "{2AB6BA0C-1B40-45AF-8FD6-6AD6AE26EF63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{B708F4DC-0668-4769-9135-0D8AE9BA9BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B708F4DC-0668-4769-9135-0D8AE9BA9BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B708F4DC-0668-4769-9135-0D8AE9BA9BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB6BA0C-1B40-45AF-8FD6-6AD6AE26EF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB6BA0C-1B40-45AF-8FD6-6AD6AE26EF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB6BA0C-1B40-45AF-8FD6-6AD6AE26EF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB6BA0C-1B40-45AF-8FD6-6AD6AE26EF63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
