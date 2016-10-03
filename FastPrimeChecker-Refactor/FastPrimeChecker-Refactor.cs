@@ -12,7 +12,7 @@ namespace FastPrimeChecker_Refactor
         {
             int till = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i <= till; i++)
+            for (int i = 2; i <= till; i++)
             {
                 bool isPrime = true;
                 for (int j = 2; j <= Math.Sqrt(i); j++)
@@ -23,7 +23,7 @@ namespace FastPrimeChecker_Refactor
                         break;
                     }
                 }
-                Console.WriteLine($"{i} is prime -> {isPrime}");
+                Console.WriteLine($"{i} -> {isPrime}");
             }
 
         }
